@@ -17,6 +17,7 @@ import java.util.List;
 @AllArgsConstructor
 public class PersonDTO {
 
+    public short getNumber;
     private Long id;
 
     @NotEmpty
